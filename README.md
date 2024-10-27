@@ -58,6 +58,7 @@ Android学习笔记
         - [1.音视频基础知识][328]
         - [2.系统播放器MediaPlayer][329]
         - [11.播放器组件封装][330]
+        - [MediaMetadataRetriever][344]
     - [DNS及HTTPDNS][23]
     - [流媒体协议][224]
         - [流媒体协议][246]
@@ -108,6 +109,8 @@ Android学习笔记
         - [10.GLSurfaceView+MediaPlayer播放视频][241]
         - [11.OpenGL ES滤镜][242]
         - [12.FBO][332]
+        - [13.LUT滤镜][346]
+        - [14.实例化][347]
     - [弹幕][243]
         - [Android弹幕实现][244]
     - [FFmpeg][322]    
@@ -296,6 +299,7 @@ Android学习笔记
     - [Top-K问题][196]
     - [Java内存模型][285]
     - [JVM架构][286]
+    - [python3入门][345]
 - [基础部分][54] 
     - [安全退出应用程序][110]
     - [病毒][111]
@@ -721,6 +725,10 @@ Android学习笔记
 [341]: https://github.com/CharonChui/AndroidNote/blob/master/VideoDevelopment/%E8%A7%86%E9%A2%91%E5%B0%81%E8%A3%85%E6%A0%BC%E5%BC%8F/AVI.md "AVI"
 [342]: https://github.com/CharonChui/AndroidNote/tree/master/VideoDevelopment/OpenCV "OpenCV"
 [343]: https://github.com/CharonChui/AndroidNote/blob/master/VideoDevelopment/OpenCV/1.OpenCV%E7%AE%80%E4%BB%8B.md "1.OpenCV简介"
+[344]: https://github.com/CharonChui/AndroidNote/blob/master/VideoDevelopment/Android%E9%9F%B3%E8%A7%86%E9%A2%91%E5%BC%80%E5%8F%91/MediaMetadataRetriever.md    "MediaMetadataRetriever"
+[345]: https://github.com/CharonChui/AndroidNote/blob/master/JavaKnowledge/python3%E5%85%A5%E9%97%A8.md    "python3入门"
+[346]: https://github.com/CharonChui/AndroidNote/blob/master/VideoDevelopment/OpenGL/13.LUT%E6%BB%A4%E9%95%9C.md  "13.LUT滤镜"
+[347]: https://github.com/CharonChui/AndroidNote/blob/master/VideoDevelopment/OpenGL/14.%E5%AE%9E%E4%BE%8B%E5%8C%96.md  "14.实例化"
 
 
 Developed By
